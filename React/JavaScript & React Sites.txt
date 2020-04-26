@@ -1,0 +1,2 @@
+PluralSight - modules!
+https://app.pluralsight.com/player?course=javascript-module-fundamentals&author=brice-wilson&name=javascript-module-fundamentals-m0&clip=0&mode=live
