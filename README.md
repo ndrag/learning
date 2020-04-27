@@ -5,10 +5,11 @@ A set of technical goals, notes, and summaries of development best practice acro
 
 * JS modules, loaders, bundlers. AMD, CommonJS, Webpack
 * Node JS - backend API, CommonJS
-* React standards & design paradigms & patterns
-* yarn, gulp, grunt, etc. CI/CD/bundling etc.
-* CI/CD with bamboo
+* React standards, design paradigms, & patterns
+* yarn, gulp, grunt, etc.
+* CI/CD with Bamboo and Azure Pipelines
 * Bitbucket, GitHub, Azure DevOps
+* Jira, Trello, Microsoft Boards
 * Typescript standards, design paradigms, & patterns
 * GeoPandas & non-Esri python development
 * Python backend web APIs
