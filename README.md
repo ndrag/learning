@@ -5,15 +5,20 @@ A set of technical goals, notes, and summaries of development best practice acro
 
 * JS modules, loaders, bundlers. AMD, CommonJS, Webpack
 * Node JS - backend API, CommonJS
+* AWS & Elastic Beanstalk node.js hosting
+* PythonAnywhere flask APIs
 * React standards, design paradigms, & patterns
+* React-DOM
+* SASS
 * yarn, gulp, grunt, etc.
 * CI/CD with Bamboo and Azure Pipelines
 * Bitbucket, GitHub, Azure DevOps
 * Jira, Trello, Microsoft Boards
 * Typescript standards, design paradigms, & patterns
 * GeoPandas & non-Esri python development
-* Python backend web APIs
-* Promises, historic patterns, async await, .then(), catching
+* Python backend web APIs (Flask)
+* Promises, historic patterns, async await, .then(), catching, efficiency
+* Efficient APIs - acceleration with CDNS like CloudFront
 * Efficient SQL implementations for spatial
 * React + ArcGIS API 4 for JS
 * CORS
