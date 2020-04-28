@@ -4,7 +4,7 @@
 A set of technical goals, notes, and summaries of development best practice across backend APIs, frontend web applications, geoprocessing & data analytics, database selection & maintenance, and development tools.
 
 * JS modules, loaders, bundlers. AMD, CommonJS, Webpack
-* Node JS - backend API, CommonJS
+* Node JS - backend API, CommonJS - Observer pattern
 * AWS & Elastic Beanstalk node.js hosting
 * PythonAnywhere flask APIs
 * React standards, design paradigms, & patterns
